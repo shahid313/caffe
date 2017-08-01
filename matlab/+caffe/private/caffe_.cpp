@@ -13,7 +13,8 @@
 #include <string>
 #include <vector>
 
-#include "gpu/mxGPUArray.h"
+//#include "gpu/mxGPUArray.h"
+#include "C:/Program Files/MATLAB/R2017a/toolbox/distcomp/gpu/extern/include/gpu/mxGPUArray.h"
 #include "mex.h"
 
 #include "caffe/caffe.hpp"
